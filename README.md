@@ -26,3 +26,5 @@ git status
 
 git add README.md
 git commit -m "Day 1: Add README with introduction and goals"
+
+git push origin main

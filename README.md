@@ -19,3 +19,7 @@ I am a Senior Manager with 13+ years of experience in Software Engineering, Data
 ## Progress
 
 - [x] Day 1
+
+
+
+git status

@@ -1,2 +1,1 @@
-# my-claude-journey
-Stepping towards learning something new, Claude
+git clone https://github.com/<your-username>/60-days-of-code.git

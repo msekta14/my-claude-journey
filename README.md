@@ -30,3 +30,5 @@ git commit -m "Day 1: Add README with introduction and goals"
 git push origin main
 
 README.md
+git config --global user.name "Ekta Srivastava"
+git config --global user.email "ektasrivastav1308@gmail.com"

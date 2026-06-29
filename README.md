@@ -25,3 +25,4 @@ I am a Senior Manager with 13+ years of experience in Software Engineering, Data
 git status
 
 git add README.md
+git commit -m "Day 1: Add README with introduction and goals"

@@ -24,5 +24,4 @@ I am a Senior Manager with 13+ years of experience in Software Engineering, Data
 
 git status
 
-Untracked files:
-README.md
+git add README.md

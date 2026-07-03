@@ -65,6 +65,6 @@ Founder response focuses on business outcomes, developer response focuses on too
 
 
 
-git add
+git add .
 git commit -m "Day 3: Role-Based Prompting exercise"
 git push origin main

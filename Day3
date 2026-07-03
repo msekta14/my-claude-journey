@@ -1,1 +1,64 @@
+# Day 3 - Role Based Prompting
 
+## Base Response (No Role)
+How can I improve my productivity?
+## Base Response
+1. Protect strategic time, not just task time.
+Managers who move up to Director usually make a deliberate shift: blocking recurring time (even 3–4 hours/week) for non-urgent, non-reactive work — reviewing team capability gaps, thinking about automation opportunities, writing up wins with numbers attached. If your calendar is 100% meetings and firefighting, that's often the actual productivity bottleneck, not task-level efficiency.
+2. Delegate outcomes, not just tasks.
+With an 8-person team, a common trap is staying the technical bottleneck (reviewing every SQL query, every report). Productivity at your next level comes less from doing things faster yourself and more from building a team that doesn't need you in the loop for routine work — which also, conveniently, is the kind of story ("built a team that operates independently") that helps the Director case we discussed.
+3. Batch and timebox context-switching.
+If you're juggling multiple client engagements (like your Pharmacy Automation + Measure Reporting work), context-switching cost is usually the biggest hidden productivity drain. Grouping similar work into blocks (e.g., all client comms in one window, all technical review in another) tends to help more than any tool.
+4. Track outcomes, not hours.
+Given the resume conversation — start keeping a running log of quantified wins (time saved, errors reduced, team growth) as they happen, rather than trying to reconstruct them later. This solves two problems at once: it's genuinely useful for performance reviews/promotion cases, and it removes the "I can't remember the numbers" problem when resume time comes around.
+5. Use GenAI/automation on your own workflow, not just the team's.
+You're already championing GenAI automation for the team — worth turning that same lens on your own repetitive work (status reporting, meeting summaries, first-draft emails) to free up the strategic time from point 1.
+
+## Founder Persona Response
+
+1. Pick one metric that defines "winning" this quarter — and let it filter everything.
+Founders often drown in priorities because everything feels urgent (fundraising, product, hiring, sales, ops). Naming one North Star metric (e.g., revenue, activation rate, retention) gives you a fast filter: does this task move that number? If not, it's probably delegable, deferrable, or deletable.
+2. Separate "founder-only" work from everything else — ruthlessly.
+Some things only you can do: vision-setting, key hires, investor relationships, make-or-break customer conversations. Everything else — ops, admin, first-draft content, scheduling, even a lot of early product work — should be delegated, automated, or timeboxed to a minimum. The common founder trap is staying the bottleneck on things a $20/hr contractor or a GenAI tool could do at 80% quality.
+3. Theme your days or weeks, not just your hours.
+With multiple priorities pulling simultaneously, constant context-switching is usually the biggest hidden cost. Many founders block entire days by mode: one day heads-down on product, one day external (sales/investors/partnerships), one day internal (team, ops). Even partial theming (mornings deep work, afternoons meetings) helps.
+4. Make decisions fast and cheap when reversible.
+Founders lose enormous time deliberating on decisions that don't warrant it. A useful gut check: "If this is wrong, how expensive is it to undo?" Cheap-to-reverse decisions (most hiring for early roles, most feature bets, most tool choices) should be made in minutes, not days — save deliberation for the truly one-way doors (co-founder equity, fundraising terms, pivots).
+5. Build a weekly "priority triage," not a daily to-do list.
+A running to-do list grows faster than you can clear it at this stage. A tighter approach: every week, force-rank the 3–5 things that would matter most if nothing else got done, and treat the rest as optional upside. This also gives you a natural way to say no.
+6. Use your team (even a small one) as leverage, not just hands.
+If you have any team at all, the productivity unlock isn't "do more yourself" — it's "make one hour of your time produce ten hours of output through others." That usually means investing early in documentation, clear ownership, and hiring people you can hand ambiguous problems to, not just tasks.
+7. Protect a recovery buffer.
+Founder burnout is one of the most common (and most avoidable) productivity killers — not because rest isn't valued, but because it's the first thing cut under pressure. Even a hard stop time or one fully offline day tends to pay for itself in decision quality.
+
+
+## Developer Persona Response
+1. Minimize context-switches, not just manage them.
+Switching between codebases has a much higher cost than switching between meetings — you lose mental state (what you were debugging, why you made a design choice, which branch you're on). Where possible, batch work by project into blocks of at least half a day rather than bouncing multiple times daily. If you can influence sprint/ticket assignment, push for "one project per day" over "a bit of everything every day."
+2. Keep a lightweight "resume state" note per project.
+Before switching away from a project, jot 2–3 lines: what you were doing, why, and the next step. Cheap to write, huge time-saver when you come back — you skip the "wait, what was I doing" reload tax. A scratch markdown file or even commit messages on a WIP branch works fine.
+3. Triage by urgency vs. importance, explicitly.
+With multiple projects, everything can feel simultaneously on fire. A simple weekly (or daily) pass: what's actually blocking someone else right now (urgent) vs. what moves things forward but can wait a few hours (important, not urgent). Protect blocks of time for the second category or it never happens.
+4. Automate the repeatable stuff first.
+Multi-project developers often lose the most time to environment setup, repetitive debugging, boilerplate, and manual testing across projects. Investing an hour in a script, template, or test harness that removes friction on a recurring task usually pays back fast — especially if it's something you do across all your projects (e.g., a shared linting/CI setup, snippet library, or scaffolding tool).
+5. Use AI tooling deliberately for the boilerplate and grunt work.
+Things like first-pass code review, writing tests, generating boilerplate, or summarizing an unfamiliar part of a codebase you're context-switching into are good candidates to hand to an AI assistant — freeing your attention for the harder design/debugging work that actually needs your judgment.
+6. Timebox investigation, especially on unfamiliar codebases.
+When jumping into a project you don't touch daily, it's easy to burn an hour "just understanding" before writing a line. Set a hard cap (e.g., 20–30 min) to get oriented, then start making small changes — you often learn faster by doing than by reading.
+7. Say no to real-time multitasking within a single work block.
+Notifications, Slack pings, and "quick questions" fragment deep work more than almost anything else for developers. Batch checking messages (e.g., every 90 minutes) rather than reacting instantly, unless something is genuinely blocking.
+8. Track where your time actually goes for a week.
+Developers are often surprised by the split — meetings, code review, actual coding, debugging, context-switching overhead. A rough time log for even 3–4 days often reveals the real bottleneck, which might not be what it feels like day-to-day.
+
+
+
+## Observations
+...Look at all 3 answers and compare:
+
+Tone (formal vs practical vs strategic)
+Focus (business vs technical vs general)
+Structure (short tips vs detailed systems)
+Priorities (what each role values most)
+
+## Learnings
+Founder response focuses on business outcomes, developer response focuses on tools and workflow, base response is general advice.

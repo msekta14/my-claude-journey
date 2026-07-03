@@ -62,3 +62,9 @@ Priorities (what each role values most)
 
 ## Learnings
 Founder response focuses on business outcomes, developer response focuses on tools and workflow, base response is general advice.
+
+
+
+git add
+git commit -m "Day 3: Role-Based Prompting exercise"
+git push origin main
